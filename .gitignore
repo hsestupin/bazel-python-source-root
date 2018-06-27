@@ -1,0 +1,9 @@
+.idea/
+.project/.idea
+.project/.blaze
+
+bazel-bin
+bazel-bazel-python-source-root
+bazel-genfiles
+bazel-out
+bazel-testlogs

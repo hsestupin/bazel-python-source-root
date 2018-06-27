@@ -1,0 +1,10 @@
+py_library(
+    name = "my_module",
+    srcs = glob(
+        ["**/*.py",],
+    ),
+    imports = [
+        ".",
+    ],
+)
+
